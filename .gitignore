@@ -1,3 +1,4 @@
 FaceBot/venv/
+FaceBot/.env
 .vscode
 __pycache__
